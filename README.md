@@ -1,7 +1,10 @@
 # PySilentWave
 
 ![PyPI](https://img.shields.io/pypi/v/pysilentwave)
-![GitHub Workflow Status](https://img.shields.io/github/workflow/status/thesilentwave/pysilentwave/Publish%20to%20PyPI)
+![Publish to PyPI](https://github.com/thesilentwave/pysilentwave/actions/workflows/publish.yml/badge.svg)
+
+
+
 
 API client for TheSilentWave devices.
 
